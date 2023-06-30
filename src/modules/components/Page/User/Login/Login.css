@@ -1,0 +1,36 @@
+.akun{
+    margin-top: 8%;
+}
+
+.login{
+    text-align: center;
+    font-family: 'Lato';
+    font-weight: 800;
+    font-size: 500%;
+}
+
+.isil{
+    margin-top: 2%;
+    width: 50%;
+    margin-left: 25%; 
+}
+
+.sbt{
+    margin-top: 65%;
+    margin-left: 135%;
+}
+
+.pindah{
+    margin-top: 6%;
+}
+
+.gak-punya-akun{
+    font-family: 'Cambria';
+    font-weight: 400;
+}
+
+.msk{
+    margin-top: -1%;
+    font-family: 'Lato';
+    font-weight: 600;
+}

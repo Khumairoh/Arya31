@@ -1,0 +1,43 @@
+.akun{
+    margin-top: 8%;
+}
+
+.signup{
+    text-align: center;
+    font-family: 'Lato';
+    font-weight: 800;
+    font-size: 250%;
+}
+
+.isi{
+    margin-top: 3%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.form-submit{
+    border: none;
+    background-color: blue;
+    color: white;
+    margin-top: 40%;
+    margin-left: 320%;
+    width: 100%;
+    font-family: 'Times New Roman';
+    font-weight: 600;
+}
+
+.pindah{
+    margin-left: 50%;
+}
+
+.gak-punya{
+    font-family: 'Cambria';
+    font-weight: 400;
+    margin-top: 1%;
+}
+
+.smk{
+    margin-top: -1%;
+    font-family: 'Lato';
+    font-weight: 600;    
+}
